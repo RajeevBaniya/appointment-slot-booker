@@ -1,4 +1,4 @@
-# Appointment Slot Booker
+# Assignment - Appointment Slot Booker
 
 A React-based appointment booking system that allows users to book 30-minute slots for a single day.
 
