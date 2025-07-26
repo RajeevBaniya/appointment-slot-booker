@@ -10,13 +10,11 @@ A React-based appointment booking system that allows users to book 30-minute slo
 - **Real-time availability**: Instant updates on slot availability
 - **Admin panel**: Pre-book slots through admin interface
 - **Responsive design**: Works on both desktop and mobile devices
-- **Visual feedback**: Clear success/error notifications
 
 ## Tech Stack
 
 - React
 - TailwindCSS
-- Vite
 
 ## Project Structure
 
@@ -93,7 +91,7 @@ src/
 - Input validation for correct time format
 - Checks for valid working hours (9 AM - 5 PM)
 - Prevents booking already booked slots
-- Clear error messages for invalid inputs
+- Clear error messages for invalid input
 
 ### Notifications
 
