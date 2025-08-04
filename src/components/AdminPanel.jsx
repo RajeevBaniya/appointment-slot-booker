@@ -42,7 +42,7 @@ export default function AdminPanel({ onAdminBook, booked }) {
         </button>
       </div>
       <div className="min-h-[20px]">
-        {error && <div className="text-red-500 text-sm">{error}</div>}
+        {error && <div className="text-red-600 text-sm">{error}</div>}
       </div>
     </div>
   );

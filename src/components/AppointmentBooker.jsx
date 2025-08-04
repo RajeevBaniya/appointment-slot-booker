@@ -73,8 +73,8 @@ export default function AppointmentBooker() {
         <div
           className={`mb-6 text-center font-medium py-2 px-4 rounded-lg ${
             notification.type === "error"
-              ? "bg-red-50 text-red-600"
-              : "bg-green-50 text-green-600"
+              ? "bg-red-50 text-red-700"
+              : "bg-green-50 text-green-700"
           }`}
         >
           {notification.message}
